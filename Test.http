@@ -1,0 +1,9 @@
+@host = http://localhost
+@contentType = application/json
+
+###
+GET {{host}}/
+
+###
+GET {{host}}/coffee
+Authorization: CSlkjdfj3423lkj234jj==
